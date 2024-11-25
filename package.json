@@ -1,6 +1,7 @@
 {
   "name": "shop-nodejs",
   "version": "0.0.1",
+  "env": "dev",
   "description": "",
   "author": "",
   "private": true,
